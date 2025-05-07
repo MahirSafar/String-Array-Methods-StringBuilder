@@ -1,0 +1,14 @@
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\obj\Debug\net9.0\String Array Methods StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\obj\Debug\net9.0\String Array Methods StringBuilder.AssemblyInfoInputs.cache
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\obj\Debug\net9.0\String Array Methods StringBuilder.AssemblyInfo.cs
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\obj\Debug\net9.0\String Array Methods StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\bin\Debug\net9.0\String Array Methods StringBuilder.exe
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\bin\Debug\net9.0\String Array Methods StringBuilder.deps.json
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\bin\Debug\net9.0\String Array Methods StringBuilder.runtimeconfig.json
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\bin\Debug\net9.0\String Array Methods StringBuilder.dll
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\bin\Debug\net9.0\String Array Methods StringBuilder.pdb
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\obj\Debug\net9.0\String Array Methods StringBuilder.dll
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\obj\Debug\net9.0\refint\String Array Methods StringBuilder.dll
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\obj\Debug\net9.0\String Array Methods StringBuilder.pdb
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\obj\Debug\net9.0\String Array Methods StringBuilder.genruntimeconfig.cache
+C:\Users\mahir\Desktop\String Array Methods StringBuilder\String Array Methods StringBuilder\obj\Debug\net9.0\ref\String Array Methods StringBuilder.dll
