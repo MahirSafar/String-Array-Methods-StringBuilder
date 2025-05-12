@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mahir\\Desktop\\String Array Methods StringBuilder\\",
+  "WorkspaceRootPath": "C:\\Users\\mahir\\Desktop\\String-Array-Methods-StringBuilder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCDE8DA8-0DEA-499B-90A8-EBC1FAD8BFBE}|String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj|c:\\users\\mahir\\desktop\\string array methods stringbuilder\\string array methods stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCDE8DA8-0DEA-499B-90A8-EBC1FAD8BFBE}|String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj|c:\\users\\mahir\\desktop\\string-array-methods-stringbuilder\\string array methods stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCDE8DA8-0DEA-499B-90A8-EBC1FAD8BFBE}|String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj|solutionrelative:string array methods stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mahir\\Desktop\\String Array Methods StringBuilder\\String Array Methods StringBuilder\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahir\\Desktop\\String-Array-Methods-StringBuilder\\String Array Methods StringBuilder\\Program.cs",
               "RelativeDocumentMoniker": "String Array Methods StringBuilder\\Program.cs",
-              "ToolTip": "C:\\Users\\mahir\\Desktop\\String Array Methods StringBuilder\\String Array Methods StringBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\mahir\\Desktop\\String-Array-Methods-StringBuilder\\String Array Methods StringBuilder\\Program.cs",
               "RelativeToolTip": "String Array Methods StringBuilder\\Program.cs",
-              "ViewState": "AgIAANkAAAAAAAAAAAAAAFQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAALIAAAAAAAAAAADwv8MAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T21:35:37.498Z",
               "EditorCaption": ""

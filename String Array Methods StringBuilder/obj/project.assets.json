@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahir\\Desktop\\String Array Methods StringBuilder\\String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj",
+      "projectUniqueName": "C:\\Users\\mahir\\Desktop\\String-Array-Methods-StringBuilder\\String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj",
       "projectName": "String Array Methods StringBuilder",
-      "projectPath": "C:\\Users\\mahir\\Desktop\\String Array Methods StringBuilder\\String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj",
+      "projectPath": "C:\\Users\\mahir\\Desktop\\String-Array-Methods-StringBuilder\\String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj",
       "packagesPath": "C:\\Users\\mahir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mahir\\Desktop\\String Array Methods StringBuilder\\String Array Methods StringBuilder\\obj\\",
+      "outputPath": "C:\\Users\\mahir\\Desktop\\String-Array-Methods-StringBuilder\\String Array Methods StringBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
